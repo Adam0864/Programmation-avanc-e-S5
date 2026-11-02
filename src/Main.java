@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        UneFenetre f = new UneFenetre(50);
+        UneFenetre f = new UneFenetre(20);
 
         Affichage a = new Affichage("AAA");
         Affichage b = new Affichage("BB");
